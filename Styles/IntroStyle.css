@@ -11,6 +11,149 @@
 }
 
 .main
+{   
+
+    /* border: 2px solid red ; */
+}
+
+.skills 
 {
-    
+    /* border: 2px solid red ; */
+    padding: 15px;    
+}
+
+.skills ul {
+	height: 187px;
+	width: 1900px;
+	/* border: 2px solid blue; */
+	display: grid;
+	grid-template-columns: 500px 500px;
+	grid-template-rows: 100px 100px;
+	grid-column-gap: 193px;
+
+    position: relative;
+    top: 20px;
+}
+.aboutme{
+    padding: 15px;    
+    /* border: 2px solid red ; */
+}
+
+.skills ul li
+{
+    list-style: none;
+}
+
+.HTMLper
+{
+    background-color: plum;
+    height: 4px;
+    width: 400px;
+    border: 2px solid gray;
+}
+
+.CSSper
+{
+    border: 2px solid gray;
+    background-color: plum;
+    height: 4px;
+    width: 400px;
+}
+.JSper
+{   
+    border: 2px solid gray;
+    background-color: plum;
+    height: 4px;
+    width: 400px;
+}
+.CPper
+{
+    border: 2px solid gray;
+    background-color: plum;
+    height: 4px;
+    width: 400px;
+}
+
+
+.elem {
+	/* border: 2px solid black; */
+	height: 42px;
+	width: 606px;
+	padding: 4px;
+	display: flex;
+	/* justify-content: center; */
+	align-items: center;
+}
+
+.text
+{   width: 40px;
+    height: 42px;
+    position: relative;
+left: -11px;
+top: -2px;
+}
+
+.texthtml {
+	text-align: center;
+	/* border: 2px solid red; */
+	width: 90px;
+	height: 21px;
+	padding: 3px;
+    margin-left: 11px;
+}
+.textcp {
+    text-align: center;
+    margin-left: 11px;
+	/* border: 2px solid red; */
+	width: 90px;
+	height: 36px;
+	padding: 3px;
+}
+
+.CP {
+	/* border: 2px solid black; */
+	height: 55px;
+	width: 606px;
+	padding: 4px;
+	display: flex;
+	/* justify-content: center; */
+	align-items: center;
+	position: relative;
+	top: -6px;
+}
+.htnum
+{
+    margin: 4px;
+}
+
+.cpnum
+{
+    margin: 4px;
+
+}
+
+.htp{
+    height: 4px;
+    width: 280px;
+    background-color: yellow;
+}
+.csp{
+    height: 4px;
+    width: 240px;
+    background-color: yellow;
+}
+.jsp{
+    height: 4px;
+    width: 120px;
+    background-color: yellow;
+}
+.cpp{
+    height: 4px;
+    width: 40px;
+    background-color: yellow;
+}
+
+.myprojects h1
+{
+    margin: 20px;
 }
