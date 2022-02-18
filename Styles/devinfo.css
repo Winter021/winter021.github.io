@@ -1,0 +1,86 @@
+/* 
+1. need to add google fonts 
+
+ */
+
+
+
+.hello
+{
+    font-size: 45px;
+
+}
+
+.name
+{
+    font-size: 35px;
+    
+font-family: 'Kanit', sans-serif;
+}
+
+.about
+{
+    position: relative;
+    top: 5px;
+    font-size: 25px;
+    /* font-family: 'Baloo Bhai 2', cursive; */
+/* font-family: 'Indie Flower', cursive; */
+font-family: 'Kanit', sans-serif;
+/* font-family: 'Permanent Marker', cursive; */
+}
+
+.moreabout
+{
+    position: relative;
+    top: 3px;
+    font-size: 23px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+
+.devinfo
+{   
+    width: 650px;
+    /* background-color: yellow; */
+    position: absolute ;
+    left: 50px;
+    top:70px;
+    /* margin-left: 40px; */
+}
+
+.devpic img
+{
+ 
+    position: absolute;
+bottom: 102px;
+right: 20px;
+/* border: 2px solid red; */
+height: 270px;
+width: 269px;
+}
+
+.buttons button
+{   height: 45px;
+    width: 125px;
+    margin: 0px 7px;
+    padding: 8px;
+color: white;
+background-color: dodgerblue;
+position: relative;
+top: 15px;
+box-shadow: 2px black;
+border: 3px solid gray;
+border-radius: 20px;
+font-weight: bold;
+cursor: pointer;
+font-family: 'Acme', sans-serif;
+
+
+}
+
+button:hover
+{
+    background-color: white;
+    color: dodgerblue;
+
+}

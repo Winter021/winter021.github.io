@@ -1,0 +1,42 @@
+*{
+    margin: 0;padding: 0;
+}
+
+.pagebody
+{
+    width: 100vw;
+    
+    display: flex;
+
+}
+
+
+
+.main
+{
+    width: 1352px;
+    height: 750px;
+    position: relative;
+    background-color: aliceblue;
+    /* display:  flex; */
+}
+
+.infocontainer
+{   
+
+    height: 476px;
+    width: 1010px;
+    background-color: bisque;
+    border: 2px solid red;
+    position: relative ;
+    /* position: relative; */
+    top: 100px;
+    left: 130px;
+
+    /* margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px; */
+    /* display : flex ; */
+    /* align-items:  center; */
+    /* justify-content:  center; */
+}
