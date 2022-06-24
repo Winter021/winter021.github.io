@@ -14,6 +14,15 @@
     /* Dark Mode */
     background-color: #e4aa88;
 
+    transition: transform 0.3s ease-in;
+
+}
+
+.sidebarGo{
+    
+        transform: translate(-443px , 0px);
+        position: absolute;
+      
 }
 
 .sidebar nav ul li a{
@@ -51,3 +60,34 @@
     position: relative;
  
 }
+
+.hamburger
+{
+    position: fixed;
+    left: -96px;
+    top: 10px;
+    cursor: pointer;
+    
+}
+
+.ham
+{
+    
+margin-left: 104px;
+}
+
+.ham-cross {
+    position: relative;
+    left: 233px;
+  }
+/* 
+@media (max-width :1615px) 
+{
+    *{
+        margin: 0;padding: 0;
+    } 
+    .sidebar{
+        transform: translate(-443px , 0px);
+        position: absolute;
+    }    
+} */

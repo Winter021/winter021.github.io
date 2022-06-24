@@ -19,6 +19,7 @@
 .skills 
 {
     /* border: 2px solid red ; */
+    margin-left: 30px;
     padding: 15px;    
 }
 
@@ -35,7 +36,8 @@
     top: 20px;
 }
 .aboutme{
-    padding: 15px;    
+    padding: 15px;   
+    margin: 30px; 
     /* border: 2px solid red ; */
 }
 
@@ -155,5 +157,5 @@ top: -2px;
 
 .myprojects h1
 {
-    margin: 20px;
+    margin: 30px;
 }

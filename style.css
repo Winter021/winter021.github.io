@@ -5,9 +5,9 @@
 .pagebody
 {
     width: 100vw;
-    
+    box-sizing: border-box;
     display: flex;
-
+    background-color: azure;
 }
 
 
@@ -23,7 +23,7 @@
     /* Dark Mode */
     /* background-image: linear-gradient(to right bottom, #ffffff, #eff0fb, #dae3f8, #c0d8f4, #a0cdef); */
 
-    background-color: azure;
+    
 }
 
 .infocontainer
