@@ -46,7 +46,7 @@
 
 .HTMLper
 {
-    background-color: plum;
+    background-color: rgb(184, 39, 184);
     height: 4px;
     width: 400px;
     border: 2px solid gray;
@@ -55,21 +55,21 @@
 .CSSper
 {
     border: 2px solid gray;
-    background-color: plum;
+    background-color: rgb(184, 39, 184);
     height: 4px;
     width: 400px;
 }
 .JSper
 {   
     border: 2px solid gray;
-    background-color: plum;
+    background-color: rgb(184, 39, 184);
     height: 4px;
     width: 400px;
 }
 .CPper
 {
     border: 2px solid gray;
-    background-color: plum;
+    background-color: rgb(184, 39, 184);
     height: 4px;
     width: 400px;
 }
@@ -134,22 +134,22 @@ top: -2px;
 
 .htp{
     height: 4px;
-    width: 280px;
+    width: 300px;
     background-color: yellow;
 }
 .csp{
     height: 4px;
-    width: 240px;
+    width: 260px;
     background-color: yellow;
 }
 .jsp{
     height: 4px;
-    width: 120px;
-    background-color: yellow;
+    width: 260px;
+    background-color: rgb(255, 251, 0);
 }
 .cpp{
     height: 4px;
-    width: 40px;
+    width: 240px;
     background-color: yellow;
 }
 

@@ -21,7 +21,7 @@ font-family: 'Kanit', sans-serif;
 .about
 {
     position: relative;
-    top: 5px;
+    top: 15px;
     font-size: 25px;
     /* font-family: 'Baloo Bhai 2', cursive; */
 /* font-family: 'Indie Flower', cursive; */
@@ -32,7 +32,7 @@ font-family: 'Kanit', sans-serif;
 .moreabout
 {
     position: relative;
-    top: 3px;
+    top: 23px;
     font-size: 23px;
     font-family: 'Baloo Bhai 2', cursive;
 }
@@ -48,6 +48,21 @@ font-family: 'Kanit', sans-serif;
     /* margin-left: 40px; */
 }
 
+
+.border {
+    font-size: 1.6rem;
+	display: grid;
+	place-items: center;
+	min-height: 200px;
+	border: 8px solid;
+	padding: 1rem;
+    border-radius: 5px;
+}
+
+
+.full {
+    border-image: linear-gradient(45deg, turquoise, #b42fff) 1;
+  }
 .devpic img
 {
  
@@ -84,3 +99,9 @@ button:hover
     color: dodgerblue;
 
 }
+
+.buttons {
+    height: 71px;
+    position: relative;
+    top: 37px;
+  }

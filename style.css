@@ -17,8 +17,13 @@
     width: 1352px;
     height: 750px;
     position: relative;
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
     /* display:  flex; */
+
+    /* Dark Mode */
+    /* background-image: linear-gradient(to right bottom, #ffffff, #eff0fb, #dae3f8, #c0d8f4, #a0cdef); */
+
+    background-color: azure;
 }
 
 .infocontainer
@@ -26,17 +31,20 @@
 
     height: 476px;
     width: 1010px;
-    background-color: bisque;
-    border: 2px solid red;
+    /* background-color: bisque; */
+    border: 6px solid plum;
     position: relative ;
     /* position: relative; */
     top: 100px;
     left: 130px;
-
+    border-radius: 4px;
     /* margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px; */
     /* display : flex ; */
     /* align-items:  center; */
     /* justify-content:  center; */
+
+    /* dark mode */
+    background-color: #f3d2f6;
 }

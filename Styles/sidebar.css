@@ -3,13 +3,16 @@
     height: 750px;
     width: 170px;
 
-    background-color: lightgray;
+    /* background-color: lightgray; */
     /* border: 2px solid red; */
     box-sizing: border-box;
 
 
     display: flex;
     justify-content: center;
+
+    /* Dark Mode */
+    background-color: #e4aa88;
 
 }
 
