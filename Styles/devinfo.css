@@ -54,14 +54,14 @@ font-family: 'Kanit', sans-serif;
 	display: grid;
 	place-items: center;
 	min-height: 200px;
-	border: 8px solid;
+	/* border: 8px solid; */
 	padding: 1rem;
     border-radius: 5px;
 }
 
 
 .full {
-    border-image: linear-gradient(45deg, turquoise, #b42fff) 1;
+    /* border-image: linear-gradient(45deg, turquoise, #b42fff) 1; */
   }
 .devpic img
 {
